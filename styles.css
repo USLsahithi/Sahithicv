@@ -1,0 +1,60 @@
+body{
+  background-color: #84D2C5;
+}
+img{
+  width: 4%;
+  height: 5%;
+  float:left;
+  margin-top: 2%;
+  margin-left: 2%;
+  position:absolute;
+}
+.port{
+  position:absolute;
+  font-family: Sofia, serif;
+  font-size:100%;
+  margin-left: 7%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+}
+.home{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  right: 50%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  position:absolute;
+}
+.skills{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  right: 41.5%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  position:absolute;
+}
+.certificate{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  right: 24.5%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  position:absolute;
+}
+.project{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  right: 11.5%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  position:absolute;
+}
+
+.about{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  right: 2%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  position:absolute;
+}
